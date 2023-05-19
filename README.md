@@ -2,7 +2,7 @@
   <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
 </p>
 
-[📎 Clique aqui para acessar]()
+[📎 Clique aqui para acessar](https://gabrielobatocabral.github.io/spacetime/)
 
 ## 🖥️ Projeto
 
